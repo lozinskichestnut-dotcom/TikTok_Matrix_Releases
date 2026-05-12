@@ -1,5 +1,10 @@
 {
     "version": "1.1.0",
-    "update_log": "1.增加更多产品邀约\n2.修复视频提取和订单提取\n3.支持定邀邀请link提取\n4.更多功能研发中。。。。",
+    "update_log": [
+        "1.增加更多产品邀约",
+        "2.修复视频提取和订单提取",
+        "3.支持定邀邀请link提取",
+        "4.更多功能研发中。。。。"
+    ],
     "download_url": "https://github.com/lozinskichestnut-dotcom/TikTok_Matrix_Releases/releases/download/1.1.0/TikTok_SaaS_Pro_Matrix_Setup_v1.1.0.exe"
 }
